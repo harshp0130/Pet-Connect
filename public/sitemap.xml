@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Public Pages -->
+  <url><loc>https://pet-connect.me/</loc></url>
+  <url><loc>https://pet-connect.me/auth</loc></url>
+  <url><loc>https://pet-connect.me/profile-setup</loc></url>
+  <url><loc>https://pet-connect.me/admin/auth</loc></url>
+  <url><loc>https://pet-connect.me/products</loc></url>
+  <url><loc>https://pet-connect.me/about</loc></url>
+  <url><loc>https://pet-connect.me/blog</loc></url>
+  <url><loc>https://pet-connect.me/careers</loc></url>
+  <url><loc>https://pet-connect.me/contact</loc></url>
+  <url><loc>https://pet-connect.me/checkout</loc></url>
+  <url><loc>https://pet-connect.me/my-orders</loc></url>
+
+  <!-- Dynamic Route Examples (adjust if you want SEO bots to crawl them) -->
+  <url><loc>https://pet-connect.me/products/123</loc></url>
+  <url><loc>https://pet-connect.me/care-request/abc</loc></url>
+
+  <!-- Protected User Routes (include only if public indexing is intended) -->
+  <url><loc>https://pet-connect.me/pet-owner</loc></url>
+  <url><loc>https://pet-connect.me/pet-lover</loc></url>
+  <url><loc>https://pet-connect.me/pet-registration</loc></url>
+  <url><loc>https://pet-connect.me/create-care-request</loc></url>
+  <url><loc>https://pet-connect.me/find-sitters</loc></url>
+  <url><loc>https://pet-connect.me/my-care-requests</loc></url>
+  <url><loc>https://pet-connect.me/pet-sitter-dashboard</loc></url>
+  <url><loc>https://pet-connect.me/pet-shelter-dashboard</loc></url>
+
+  <!-- Admin route (include only if safe to expose) -->
+  <url><loc>https://pet-connect.me/admin</loc></url>
+</urlset>
